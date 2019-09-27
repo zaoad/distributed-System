@@ -1,0 +1,8 @@
+Server:
+	javac KnockKnockServer.java
+	java KnockKnockServer
+
+
+Client:
+	javac KnockKnockClient.java
+	java KnockKnockClient
