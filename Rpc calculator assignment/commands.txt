@@ -1,0 +1,8 @@
+
+make:
+	make -f Makefile.calculate
+serverterminal:
+	sudo ./calculate_server
+clientterminal:
+	sudo ./calculate_client localhost
+
