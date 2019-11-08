@@ -1,0 +1,12 @@
+algorithm 2#CSE 1201#5
+Fundamental of Programming#CSE 2101#5
+numerial analysis#MATH 4102#6
+Programing Language#CSE 2202#3
+Object Oriented Programming#CSE 3101#3
+Probability and Statistics#STAT 3205#2
+algorithm 1#CSE 1101#5
+Introduction to Computer Science#CSE 1102#5
+Integration and Differentiation#MATH 3101#5
+Linear Algebra#MATH 4101#5
+Software Engineering#CSE 2204#5
+
